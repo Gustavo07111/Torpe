@@ -1,1 +1,3 @@
-Nueva linea de codigo
+arr.forEach(function(item)){
+    console.log(item);
+}
